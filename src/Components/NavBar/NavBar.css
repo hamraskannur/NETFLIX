@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #111;
+    width: 100%;
+    color: white;
+    
+}
+.navbar-brand{
+    padding-left:0.5rem ;
+    width: 7rem;
+}
+.Avatar{
+    padding-right:2rem ;
+    width: 4rem; 
+}
+.nav-link{
+    padding-left:5rem ;
+
+}
+#home{
+    padding-left:2rem ;
+}
+
